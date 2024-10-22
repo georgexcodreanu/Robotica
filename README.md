@@ -20,4 +20,11 @@
 4. Poze setup fizic:
    ![robotica1](https://github.com/user-attachments/assets/47fb9f70-f76d-4f4a-bb91-fc5412f252e4)
    ![robotica2](https://github.com/user-attachments/assets/2c787e49-e73b-4c7e-8a49-5a85cf96d6a4)
+   ![robotica3](https://github.com/user-attachments/assets/832286c3-546f-4c7e-bac3-e4f658751590)
 
+5. Link video: https://www.youtube.com/watch?v=y3DIl2gxeeQ
+
+6. Schema electrica
+   ![schema_electrica](https://github.com/user-attachments/assets/cd428146-2c3c-4af3-99c8-3f750e718c9b)
+
+   
