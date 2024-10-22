@@ -19,3 +19,5 @@
 
 4. Poze setup fizic:
    ![robotica1](https://github.com/user-attachments/assets/47fb9f70-f76d-4f4a-bb91-fc5412f252e4)
+   ![robotica2](https://github.com/user-attachments/assets/2c787e49-e73b-4c7e-8a49-5a85cf96d6a4)
+
