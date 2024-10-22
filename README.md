@@ -25,6 +25,7 @@
 5. Link video: https://www.youtube.com/watch?v=y3DIl2gxeeQ
 
 6. Schema electrica:
+
    ![schema_electrica](https://github.com/user-attachments/assets/cd428146-2c3c-4af3-99c8-3f750e718c9b)
 
    
